@@ -12,7 +12,7 @@
 
 * Each verse is a Title Level 4, meaning they have four numberals ("####"). This allows for easy creation of links to specific blocks (any verse of the Bible).
 
-# How to Use"
+# How to Use
 
 * Download the Bible-in-Markdown-Custom.zip file
 * Extract the "Bible" folder
