@@ -1,7 +1,7 @@
 # Bible-in-Markdown-Custom
 
 * NKJV NT and OT, plus English Septuagint OT. Organized and designed for my use with Obsidian.md
-* 
+
 * The 66 books of the Bible, organized in the traditionally available format with numbered books, as follows:
 
  ![image](https://user-images.githubusercontent.com/64564447/216407110-dc45fab7-f6d8-4579-af34-58abedcc6255.png)
