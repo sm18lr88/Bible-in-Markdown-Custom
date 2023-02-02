@@ -8,9 +8,9 @@
 
 * "(Sept)" refers to the English Septuagint. Why include this? For backlink/crosslink purposes: many references in the New Testament refer to statements only found in the Septuagint.
 
-* Each Book contains only verses, each marked by Full Name-Chapter-Verse, all the way through. There's no need to divide books by chapter.
+* Each Book contains only verses, each marked by Full Name Chapter:Verse, all the way through. There's no need to divide books by chapter.
 
-* Each verse is a Title Level 4, meaning they have four numberals ("####"). This allows me to create backlinks to specific blocks. In other words, I can backlink to any specific verse of the Bible.
+* Each verse is a Title Level 4, meaning they have four numberals ("####"). This allows for easy creation of links to specific blocks (any verse of the Bible).
 
 # How to Use"
 
